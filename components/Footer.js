@@ -13,7 +13,7 @@ export default function Footer() {
 
       <div>
         <p className="font-thin text-center mt-4">
-          You'll also be the first to see our new arrivals, get early access to
+          You&apos;ll also be the first to see our new arrivals, get early access to
           sales and more!
         </p>
       </div>
@@ -132,7 +132,7 @@ export default function Footer() {
               <p>Sun: Closed</p>
               <b>COUNTRY</b>
             </div>
-            <select className="w-[200px] h-[35px] border">
+            <select className="w-[220px] h-[40px] border rounded-[4px]">
               <option>United States (USD $)</option>
               <option>English</option>
               <option>Việt Nam</option>
